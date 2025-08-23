@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @smpramod
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-smpramod/smpramod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @smpramod  
+- 👀 I’m interested in **Cloud Computing, Blockchain Development, Data Analytics, and Full-Stack Development**.  
+- 🌱 I’m currently learning **Cross-Platform Application Development, Data Analytics**, and strengthening my **Java & Python** skills.  
+- 💞️ I’m looking to collaborate on projects related to **Web Development, Cloud Solutions, and Data-driven Applications**.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pramod-margudre) | [Email](mailto:margudrep@example.com)  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: I love experimenting with different tech stacks — from building **Android apps in Java** to deploying **ML models in the cloud** 🚀  
