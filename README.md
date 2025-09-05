@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smpramod  
-- 👀 I’m interested in **Cloud Computing, Blockchain Development, Data Analytics, and Full-Stack Development**.  
-- 🌱 I’m currently learning **Cross-Platform Application Development, Data Analytics**, and strengthening my **Java & Python** skills.  
+- 👀 I’m interested in **Cloud Computing, Blockchain Development and Full-Stack Development**.  
+- 🌱 I’m currently learning **Cross-Platform Application Development, Data Analytics** and strengthening my **Java & Python** skills.  
 - 💞️ I’m looking to collaborate on projects related to **Web Development, Cloud Solutions, and Data-driven Applications**.  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pramod-margudre) | [Email](mailto:margudrep@example.com)  
 - 😄 Pronouns: **He/Him**  
