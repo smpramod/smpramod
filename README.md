@@ -1,5 +1,48 @@
-# 💫 About Me:
-btech final year student <br>Aspiring Full-Stack Developer | Android Developer<br>Frontend<br>React.js, JavaScript (ES6+), HTML5, CSS3<br>Responsive UI, Component-based architecture<br>Backend<br>Node.js, Express.js<br>RESTful APIs, Authentication & Authorization<br>Mobile Development<br>Android (Java)<br>MVVM Architecture, Retrofit, Room (learning), Clean Architecture<br>Databases<br>MySQL<br>MongoDB<br>AWS (Basics), Google Cloud Platform (Hands-on labs)<br>Python, Flask<br>Tools & Platforms<br>Git & GitHub<br>Android Studio<br>MySQL Workbench<br>Postman<br>📜 Certifications<br>NPTEL – Cloud Computing<br>Google Arcade Facilitator Program (GCP Labs)<br>linkedin:https://www.linkedin.com/in/pramod-margudre-4235452a5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuRB%2BkPl%2FQpmtEnMcErRGZw%3D%3D<br>email:margudrep@gmail.com<br>
+# 💫 About Me
+
+I am a **B.Tech final-year student** and an **aspiring Full-Stack Developer and Android Developer** with hands-on experience in building scalable, user-centric applications. I focus on clean architecture, modular design, and real-world problem solving.
+
+## 💻 Technical Skills
+
+### Frontend
+- React.js, JavaScript (ES6+), HTML5, CSS3  
+- Responsive UI, Component-based architecture  
+
+### Backend
+- Node.js, Express.js  
+- RESTful APIs, Authentication & Authorization  
+
+### Mobile Development
+- Android Development (Java)  
+- MVVM Architecture, Retrofit, Room (learning), Clean Architecture  
+
+### Databases
+- MySQL  
+- MongoDB  
+
+### Programming & Frameworks
+- Java  
+- Python, Flask  
+
+### Tools & Platforms
+- Git & GitHub  
+- Android Studio  
+- MySQL Workbench  
+- Postman  
+
+## 📜 Certifications
+- NPTEL – Cloud Computing  
+- Google Cloud Arcade Facilitator Program (Hands-on GCP Labs)  
+
+## 🌱 Currently Learning
+- Kotlin with MVVM Architecture  
+- Cross-platform application development  
+- Java-based backend development  
+
+## 📫 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/pramod-margudre-4235452a5  
+- **Email:** margudrep@gmail.com  
+
 
 
 ## 🌐 Socials:
