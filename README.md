@@ -71,17 +71,13 @@ I focus on:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=smpramod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=smpramod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smpramod&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-</div>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smpramod&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <br/>
 
-<div align="center">
-
-<!-- This automatically shows Current + Longest Streak (will show 37 if correct) -->
+<!-- Automatically calculates current + longest streak -->
 <img src="https://streak-stats.demolab.com?user=smpramod&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 
 </div>
@@ -98,12 +94,12 @@ I focus on:
 
 ---
 
-<!-- ================= TROPHIES ================= -->
+<!-- ================= GITHUB METRICS (WORKING VERSION) ================= -->
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smpramod&theme=radical&no-frame=true&margin-w=10&row=1&column=6"/>
+  <img src="https://metrics.lecoq.io/smpramod?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata" />
 </div>
 
 ---
