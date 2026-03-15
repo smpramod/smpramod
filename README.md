@@ -65,6 +65,8 @@ I focus on:
 
 ---
 
+![Profile views](https://github.com/smpramod)
+
 <!-- ================= GITHUB STATS ================= -->
 
 ## 📊 GitHub Analytics
