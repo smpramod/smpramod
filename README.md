@@ -47,7 +47,7 @@ I focus on:
 - Responsive UI & Component Architecture  
 
 ### Backend
-- Node.js, Express.js  
+- NestJs, Node.js, Express.js  
 - RESTful API Design  
 - JWT Authentication  
 - Middleware & MVC Architecture  
