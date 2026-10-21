@@ -1,126 +1,91 @@
-<!-- ================= HEADER ================= -->
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=230&section=header&text=Hello%20I'm%20Pramod%20Margudre&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Focused%20Full%20Stack%20Developer%20%7C%7C%20Android%20Developer&descAlignY=60&descAlign=50"/>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smpramod&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
-
-<br/>
-
-<!-- ================= TECH STACK ================= -->
-
-<div align="center">
-  <h3>🚀 Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,java,kotlin,python,flask,html,css,tailwind,git,github,docker,firebase,androidstudio,figma&perline=9" />
-</div>
-
-<br/>
-
-<!-- ================= ABOUT ME ================= -->
-
-## 💫 About Me
-
-🎓 Final-Year B.Tech (Computer Science & Business Systems)  
-💻 Backend-focused Full Stack Developer  
-📱 Android Developer (MVVM + Clean Architecture)  
-🔐 Experienced in REST APIs, Authentication & Authorization  
-☁️ Cloud Computing Certified  
-
-I focus on:
-- Clean Architecture & Modular Design  
-- Scalable Backend Systems  
-- Authentication & Security  
-- Database Schema Design & Optimization  
-- Production-oriented application development  
-
----
-
-<!-- ================= CORE SKILLS ================= -->
-
-## 💻 Core Technical Skills
-
-### Frontend
-- React.js, JavaScript (ES6+), HTML5, CSS3  
-- Responsive UI & Component Architecture  
-
-### Backend
-- NestJs, Node.js, Express.js  
-- RESTful API Design  
-- JWT Authentication  
-- Middleware & MVC Architecture  
-
-### Mobile Development
-- Android (Java)  
-- MVVM Architecture  
-- Retrofit  
-- Room (Learning)  
-- Clean Architecture  
-
-### Databases
-- MySQL  
-- MongoDB  
-
-### Programming
-- Java  
-- Python (Flask)  
-
----
-
-<!-- ================= GITHUB STATS ================= -->
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=smpramod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+# Pramod Margudre
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smpramod&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+**Software Engineer | Backend · AI/ML & LLM Integration · Full-Stack**
 
-<br/>
+Ex-Backend Developer Intern at Seratek Systems · B.Tech CSBS 2026 · Kolhapur, India
 
-<!-- Automatically calculates current + longest streak -->
-<img src="https://streak-stats.demolab.com?user=smpramod&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<a href="https://pramod-portfolio-xi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/smpramod/pramod_sde_resume/blob/main/pramod_sde.pdf"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pramodmargudre-4235452a5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:margudrep@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+🟢 **Open to work · Immediate joiner** · [Download resume (PDF)](https://github.com/smpramod/pramod_sde_resume/raw/main/pramod_sde.pdf)
 
 </div>
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
+## About
 
-## 🔥 Contribution Activity
+I build reliable backend systems and the AI features that sit on top of them.
+From Feb to Sep 2026, I interned as a Backend Developer on a live ERP product at Seratek Systems, in a 16-member Agile team.
+Now looking for software engineer and AI/ML roles: backend, full-stack, LLM integration.
+
+---
+
+## Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smpramod&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,django,ts,js&perline=7" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=5" /><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,docker,git&perline=6" />
+
 </div>
 
----
-
-<!-- ================= CERTIFICATIONS ================= -->
-
-## 📜 Certifications
-
-- NPTEL – Cloud Computing  
-- Google Cloud Arcade Facilitator Program  
-- Claude AI for Beginners  
+**AI/ML:** XGBoost · Isolation Forest · SHAP · scikit-learn · TensorFlow/PyTorch · LLM APIs (Claude)
+**Mobile:** Flutter · Android (Java)
 
 ---
 
-<!-- ================= CONNECT ================= -->
+## Featured Projects
 
-## 📫 Connect With Me
+**[Adaptive UEBA: Insider Threat & Poisoning Defense](https://github.com/smpramod/cyberProject)**
+Insider-threat detection that stays reliable when an attacker slowly poisons the baseline: 93% detection vs 22% for an ungoverned model. SHAP + Claude API alert triage on a React dashboard.
+`Python` `Django` `React` `XGBoost` `SHAP` `Celery` `Redis` `PostgreSQL` `Docker`
+
+**[Black & White Cafe: Ordering Platform](https://blackandwhitecafe.vercel.app/)** (UI demo)
+Full-stack ordering platform for a real cafe: guest and signed-in ordering, rewards, bookings, live order tracking.
+`Flutter` `React` `Next.js` `NestJS` `MongoDB` `Socket.IO`
+*Status: client paused the project; backend offline, interface available as a demo.*
+
+**[SmartCrop: Crop Disease Prediction](https://github.com/smpramod/DiseasePredicition)**
+CNN classifier trained on 8,000 leaf images, 88% accuracy, with a web app to use it.
+`Python` `TensorFlow/PyTorch` `React` `Node.js` `MongoDB`
+
+---
+
+## Experience
+
+**Backend Developer Intern · Seratek Systems** (Feb 2026 – Sep 2026)
+- Cut socket calls and user checks by 95% by redesigning push notifications around Socket.IO rooms
+- Designed a centralized soft-delete system with cascading dependency checks across ERP modules
+- Strengthened login security: OTP throttling, cooldowns, account lockout, and OAuth 2.0
+
+---
+
+## Certifications
+
+NPTEL Cloud Computing · Google Cloud Arcade Facilitator · Infosys Springboard: Introduction to Data Science · Implementing Cryptographic Techniques · Claude AI for Beginners
+
+---
+
+## Resume
+
+📄 [View resume](https://github.com/smpramod/pramod_sde_resume/blob/main/pramod_sde.pdf) · [Download PDF](https://github.com/smpramod/pramod_sde_resume/raw/main/pramod_sde.pdf)
+
+---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pramod-margudre-4235452a5">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smpramod&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<a href="mailto:margudrep@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/><br/>
+
+<a href="https://pramod-portfolio-xi.vercel.app/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/pramodmargudre-4235452a5">LinkedIn</a> ·
+<a href="mailto:margudrep@gmail.com">margudrep@gmail.com</a>
 
 </div>
